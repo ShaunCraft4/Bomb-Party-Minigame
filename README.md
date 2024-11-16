@@ -1,2 +1,2 @@
 # Bomb-Party-Minigame
-The classic Bomb Party minigame but on Python.
+Just copy the code into your Python Interpreter to get it running. Or you could just download the "Bomb Party.py" file and open it with your python interpreter to play!
